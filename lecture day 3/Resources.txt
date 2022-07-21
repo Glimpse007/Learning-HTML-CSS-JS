@@ -1,0 +1,15 @@
+The Resources used in today's lecture.
+
+image tag in HTML: https://www.w3schools.com/tags/tag_img.asp
+
+anchor tag in HTML: https://www.w3schools.com/tags/tag_a.asp
+
+tables in HTML: https://www.w3schools.com/tags/tag_table.asp
+
+table head tag in HTML: https://www.w3schools.com/tags/tag_thead.asp
+
+table body tag in HTML: https://www.w3schools.com/tags/tag_tbody.asp
+
+colspan tag in HTML: https://www.w3schools.com/tags/att_td_colspan.asp
+
+rowspan tag in HTML: https://www.w3schools.com/tags/att_td_rowspan.asp
