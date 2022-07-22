@@ -14,4 +14,4 @@ colspan tag in HTML: https://www.w3schools.com/tags/att_td_colspan.asp
 
 rowspan tag in HTML: https://www.w3schools.com/tags/att_td_rowspan.asp
 
-marquee tag in HTML: 
+marquee tag in HTML: https://www.w3schools.in/html/marquee-tag
