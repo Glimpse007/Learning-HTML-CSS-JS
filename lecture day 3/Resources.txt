@@ -13,3 +13,5 @@ table body tag in HTML: https://www.w3schools.com/tags/tag_tbody.asp
 colspan tag in HTML: https://www.w3schools.com/tags/att_td_colspan.asp
 
 rowspan tag in HTML: https://www.w3schools.com/tags/att_td_rowspan.asp
+
+marquee tag in HTML: 
