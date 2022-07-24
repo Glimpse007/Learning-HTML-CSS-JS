@@ -1,0 +1,13 @@
+Resources for the HTML class Day 4.
+
+select tag in HTML: https://www.w3schools.com/tags/tag_select.asp
+
+text area in HTML: https://www.w3schools.com/tags/tag_textarea.asp
+
+button in HTML: https://www.w3schools.com/tags/tag_button.asp
+
+input in HTML: https://www.w3schools.com/tags/tag_input.asp
+
+form in HTML: https://www.w3schools.com/html/html_forms.asp#:~:text=The%20element%20is%20a,this%20chapter%3A%20HTML%20Form%20Elements.
+
+label in HTML: https://www.w3schools.com/tags/tag_label.asp
