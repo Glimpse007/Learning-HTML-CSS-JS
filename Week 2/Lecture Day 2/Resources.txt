@@ -1,0 +1,11 @@
+Resources for today's lecture.
+
+CSS Background Style: https://www.w3schools.com/cssref/css3_pr_background.asp
+
+CSS Text Style: https://www.w3schools.com/css/css_text.asp
+
+CSS Text Alignment: https://www.w3schools.com/css/css_text_align.asp
+
+CSS Text decoration: https://www.w3schools.com/css/css_text_decoration.asp
+
+CSS Text Spacing: https://www.w3schools.com/css/css_text_spacing.asp
