@@ -1,0 +1,10 @@
+Resources for today's lecture.
+
+Introduction to CSS: https://www.w3schools.com/css/css_intro.asp
+
+Styling using CSS in HTML: https://www.w3schools.com/html/html_css.asp
+
+Span tag in HTML: https://www.w3schools.com/tags/tag_span.asp
+
+DIV tag in HTML: https://www.w3schools.com/tags/tag_div.ASP
+
