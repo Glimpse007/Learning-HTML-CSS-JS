@@ -1,0 +1,9 @@
+Resources for today's lecture.
+
+CSS tables: https://www.w3schools.com/css/css_table.asp
+
+CSS lists: https://www.w3schools.com/css/css_list.asp
+
+CSS float property: https://www.w3schools.com/css/css_float.asp
+
+CSS clear property: https://www.w3schools.com/css/css_float_clear.asp
