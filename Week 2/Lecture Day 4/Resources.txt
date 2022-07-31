@@ -1,5 +1,7 @@
 Resources used in today's class.
 
+links:
+
 Bootstrap: https://getbootstrap.com/
 
 w3schools Bootstrap: https://www.w3schools.com/bootstrap/
