@@ -1,0 +1,12 @@
+This file contains all the resources as discussed in the class.
+
+What is Javascript (Basic): https://www.w3schools.com/whatis/whatis_js.asp
+
+Revisiting HTML DOM: https://www.w3schools.com/whatis/whatis_htmldom.asp
+
+Javascript and DOM: https://www.tutorialspoint.com/javascript/javascript_html_dom.htm 
+
+
+Some Extra Resources:
+
+Javascript : https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript 
