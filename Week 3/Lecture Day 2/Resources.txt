@@ -1,0 +1,8 @@
+Resources Used and referred in today's lecture.
+
+
+Variables in JS: https://www.w3schools.com/js/js_variables.asp
+
+Conditionals in JS: https://www.w3schools.com/js/js_if_else.asp
+
+Looping Statements in JS: https://www.w3schools.com/js/js_loop_for.asp
