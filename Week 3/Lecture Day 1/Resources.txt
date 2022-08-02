@@ -6,6 +6,7 @@ Revisiting HTML DOM: https://www.w3schools.com/whatis/whatis_htmldom.asp
 
 Javascript and DOM: https://www.tutorialspoint.com/javascript/javascript_html_dom.htm 
 
+Different ways to add JS in a webpage : https://www.w3schools.com/js/js_whereto.asp
 
 Some Extra Resources:
 
