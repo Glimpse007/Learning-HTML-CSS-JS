@@ -1,0 +1,7 @@
+All about arrays ans some other useful links.
+
+Arrays in JS: https://www.w3schools.com/js/js_arrays.asp
+
+Objects in JS: https://www.w3schools.com/js/js_object_definition.asp
+
+Strings in JS: https://www.w3schools.com/js/js_string_methods.asp
