@@ -72,7 +72,7 @@
 
 
 
-	<form action = "#" name = "myForm" onSubmit = "return (validate())";>
+<form action = "#" name = "myForm" onSubmit = "return (validate())";>
 
 <h3 align = "center"> STUDENT REGISTRATION FORM </h3>
 
@@ -81,14 +81,14 @@
 <tr>
 <td> First Name : </td>
 <td>
-<input type = "text" name = "First_Name" placeholder="First Name" />
+<input type = "text" name = "First_Name" placeholder="First Name" required />
 </td>
 </tr>
 
 <tr>
 <td> Last Name : </td>
 <td>
-	<input type = "text" name ="Last_Name" placeholder="Last Name" />
+	<input type = "text" name ="Last_Name" placeholder="Last Name" required />
 </td>
 
 </tr>
@@ -96,7 +96,7 @@
 <tr>
 	<td> Gender : </td>
 	<td> Male
-		<input type="radio" name="Gender" value="male" /> 
+		<input type="radio" name="Gender" value="male" required/> 
 	Female
  
  <input type="radio" name="Gender" value="female" />
@@ -105,15 +105,15 @@
 
 
 <tr>
-	<td> Moblie No. </td>
+	<td> Mobile No. </td>
 <td>
-      <input type="text" name="Mobile" placeholder="Moblie Number" />
+      <input type="number" name="Mobile" placeholder="Moblie Number" required />
 </td>
 </tr>
 
 <tr>
 	<td> Email : </td>
-	<td> <input type="text" name="Email" placeholder="Email Id" />
+	<td> <input type="email" name="Email" placeholder="Email Id" />
 	</td>
 </tr>
 
@@ -140,7 +140,7 @@
 	<td> City :</td>
 
 <td>
-	<input type="text" name="city" placeholder="City" />
+	<input type="text" name="city" placeholder="City"  required/>
 </td>
 
 </tr>
